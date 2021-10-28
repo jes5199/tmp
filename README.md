@@ -1,3 +1,3 @@
 # The Missing Platform
 
-notes on computing in the world
+an incomplete vision for computing in the world
